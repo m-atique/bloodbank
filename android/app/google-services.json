@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62519187543",
+    "firebase_url": "https://calculatorjscript.firebaseio.com",
+    "project_id": "calculatorjscript",
+    "storage_bucket": "calculatorjscript.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62519187543:android:bf174dde04cd49647fab12",
+        "android_client_info": {
+          "package_name": "com.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62519187543-iapl1u8ka5r63p0k3naslo86muo6erss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgijueu0Sg7SzNh6ZVt-UHGIQOBTLAAJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62519187543-iapl1u8ka5r63p0k3naslo86muo6erss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
